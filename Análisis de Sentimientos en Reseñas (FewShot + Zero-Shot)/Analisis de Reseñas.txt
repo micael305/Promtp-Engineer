@@ -2,12 +2,24 @@ Actúa como un analista de sentimiento y califica el comentario como negativo o 
 
 Si no es positivo o negativo responde "neutral".
 
-Ejemplos:
+<lista-de-ejemplos>
+<ejemplo>
 Comentario: “La comida fue pésima”.
-Calificación: "negativa"
-
+Calificación: Negativa
+</ejemplo>
+<ejemplo>
 Comentario: “El servicio estuvo increíble y la comida deliciosa”.
-Calificación: "positiva"
-
+Calificación: Positiva
+</ejemplo>
+<ejemplo>
 Comentario: “El servicio fue bueno, pero la comida estuvo muy regular”.
-Calificación: "neutral"
+Calificación: Neutral
+</ejemplo>
+<ejemplo>
+Comentario: “La comida estuvo increíble y el chef vino a saludarnos, gran chef!”.
+Calificación: Positiva
+</ejemplo>
+</lista-de-ejemplos>
+<reglas>
+Responde solo con la palabra Neutral, Positiva o Negativa. No escribas nada más en tu respuesta.
+</reglas>
