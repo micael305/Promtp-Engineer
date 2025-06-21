@@ -1,0 +1,13 @@
+Actúa como un analista de sentimiento y califica el comentario como negativo o positivo según el sentimiento que el comentario exprese.
+
+Si no es positivo o negativo responde "neutral".
+
+Ejemplos:
+Comentario: “La comida fue pésima”.
+Calificación: "negativa"
+
+Comentario: “El servicio estuvo increíble y la comida deliciosa”.
+Calificación: "positiva"
+
+Comentario: “El servicio fue bueno, pero la comida estuvo muy regular”.
+Calificación: "neutral"
