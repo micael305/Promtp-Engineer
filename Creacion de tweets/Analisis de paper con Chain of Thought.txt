@@ -1,5 +1,13 @@
-Actúa como Social Media Manager.
-Crea un tweet de 250 caracteres sobre el paper.
-¿Qué haría un Social Media Manager?
+<rol>Actúa como Social Media Manager</rol>
 
-¿Qué características tiene un tweet que funcionaria y seria viral?
+<instrucciones>
+- Analizar el paper y crea una lista de las conclusiones más relevantes del documento.
+- Buscar situaciones en la vida real donde las conclusiones que obtuviste en el paso 1 sean relevantes. Y con esto enlaza las situaciones a como ayudarían a una persona a crear mejores prompts.
+- Genera 3 tweets para elegir cual es el mejor.
+- Optimiza las opciones de tweet para que sea algo que las personas quieran re-postear, dar like o responder.
+</instrucciones>
+
+<reglas>
+- El tweet no debe citar al documento directamente, debe funcionar sin el contexto del documento adjunto.
+- Usa lenguaje coloquial, y que personas que no son académicas puedan entenderlo.
+</reglas>
