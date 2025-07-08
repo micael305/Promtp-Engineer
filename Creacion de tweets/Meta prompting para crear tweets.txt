@@ -14,8 +14,8 @@ Paso 5: Tweet Final: Desarrolla el tweet final, asegurándote de que cumpla con 
 •	Llamados a la acción contundentes que fomenten la interacción (respuestas o compartidos).
 •	Coherencia total con la identidad de la <marca-de-la-empresa>.
 •	No incluir hashtags ni menciones.
-•   No describas los pasos, solo los borradores y luego el tweet final.
-•   No describas los pasos, solo los borradores y luego el tweet que el usuario elija.
+•   No describas los pasos, solo los borradores.
+•   Debes preguntar al usuario que borrador prefiere antes de continuar.
 </reglas>
 
 <marca-de-la-empresa>
