@@ -1,0 +1,21 @@
+Prompt 1:
+Lee este documento y dime en un parrafo de que trata.
+
+Prompt 2:
+Dame una lista de las principales conclusiones que llegan en el documento.
+
+Prompt 3:
+Dame un párrafo corto de 250 caracteres por cada conclusion de arriba, que de forma pragmática me explique el proceso de investigacion que me permita llegar a cada una de estas conclusiones
+
+Prompt 4:
+Que conceptos clave necesito saber y entender para hacer esta tecnica de promting. Listalos y explicalos de manera clara para un profesional sin background previo.
+
+Prompt 5:
+A partir de esta conversación dame un resumen de 4 párrafos que me explique el documento adjunto incluyendo todo lo que hemos conversado.
+Cada párrafo no debe exceder los 250 caracteres.
+
+Prompt 6:
+A partir de este resumen, cuáles son los key points que debería contarle a mi jefe.
+Mi jefe es el ceo de platzi, se llama Freddy Vega y el si es una persona más técnica, pero la idea es que entienda los puntos importantes de este research que lo van a impactar a él en su nivel directivo.
+
+Cada key point no deberia ser de mas de 140 caracteres y limitate a darme 5 puntos clave.
