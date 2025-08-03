@@ -1,0 +1,12 @@
+Prompt 1:
+Actua como un analista de datos, lee este xlsx y dime de que se trata.
+
+Prompt 2:
+Crea un gráfico de linea que muestre las ventas por mes de Colmart.
+
+Prompt 3:
+Ahora dame el grafico por trimestre.
+
+Prompt 4:
+A partir de estos dos gráficos dame un análisis de las ventas por mes y por trimestre. Incluye fechas y números de ventas.
+

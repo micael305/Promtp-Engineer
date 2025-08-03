@@ -1,0 +1,15 @@
+Reporte sobre las ventas del Retail Colmart
+
+- Análisis de ventas por mes y por trimestre
+- Tendencias por edad y categoría
+- Tendencias por genero y categoia
+
+Analisis con la informacion que ya tenemos ---
+Para practicar...
+
+- Ganacia promedio por categoria
+- Ganacia promedio por edad
+- Ganacia promedio por genero
+- Identificación de temporadas según edad
+
+
