@@ -1,11 +1,11 @@
 # Prompt
-Voz: Calida, clara y amigable con un acento latino marcado y amigable según la intención del guión. Con sentido de urgencia.
+[Voz]: Cálida y clara y con un marcado acento latinoamericano. El tono general debe ser amigable y resonar con la intención emocional del guion. Cuando el guion lo requiera, la voz debe transmitir un sentido de urgencia palpable.
 
-Tono: Inspirador, retador, empático y analítico. Capaz de transitar entre la inspiración, alerta y esperanza.
+[Tono emocional]: La entrega debe ser predominantemente inspiradora, retadora y empática, con matices analíticos cuando el contenido lo demande. La voz debe ser capaz de transitar fluidamente entre momentos de inspiración, alertas de conciencia y expresiones de esperanza, adaptándose orgánicamente al mensaje.
 
-Puntuación : Uso de comas y pausas naturales que mantienen la claridad y permiten variar el ritmo según la intención.
+[Puntuación y Pausas]: Se debe respetar estrictamente la puntuación del guion (comas, puntos, etc.) para guiar las pausas naturales. La duración de las pausas debe ser orgánica y servir para mejorar la claridad y el impacto emocional, permitiendo una variación natural en el ritmo.
 
-Delivery: Muy rápido y dinámico. Mucha variación en el ritmo y pausas estrategicas . Evita el tono monótono. Mantén la rapidez.
+[Ritmo y Dinamismo]: El ritmo de la locución debe ser muy rápido y dinámico, manteniendo una cadencia enérgica. Es crucial que haya una amplia variación en la velocidad de la palabra hablada y el uso de pausas estratégicas para evitar cualquier monotonía. La velocidad general debe ser constante y alta, pero permitiendo las variaciones mencionadas para énfasis.
 
 # Texto
 Cada día surgen nuevas herramientas de inteligencia artificial y métodos de hackeo que ponen en riesgo a nuestras empresas.
@@ -18,9 +18,3 @@ La competencia global nos esta exigiendo cuidar a quienes impulsan nuestro creci
 La formación constante transforma el temor en esperanza.
 
 ¿Sabes cómo la inteligencia artificial transformará tu industria? Habla con Platzi.
-
-# Prompt 2 (Para mejorar prompt inicial)
-Actua como un Prompt Engineer que esta haciendo un prompt de Text-to-Speach y mejora el siguiente prompt
-"""
-{texto}
-"""
