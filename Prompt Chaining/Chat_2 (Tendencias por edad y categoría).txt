@@ -1,0 +1,47 @@
+Prompt 1:
+Actua como un analista de datos. Entiende el excel adjunto y el siguinete analisis de las ventas de Colmart mensuales y trimestrales
+
+Análisis de ventas:
+Visión mensual
+
+Enero: ~35 500 USD. Buen arranque después de las fiestas.
+Febrero: sube a ≈44 000 USD gracias a un pico en ropa (probable campaña de San Valentín).
+Marzo: retrocede a ~29 000 USD; final de rebajas y menor actividad.
+Abril: repunta a ~34 000 USD impulsado por electrónica y belleza.
+Mayo: máximo anual, ≈53 000 USD; coincide con Día de la Madre y promociones de mitad de año.
+Junio: cae a ~37 000 USD tras el pico promocional.
+Julio: se mantiene estable en ~35 000 USD.
+Agosto: leve alza a ~37 000 USD; regreso a clases incentiva compras de electrónica.
+Septiembre: baja a ~24 000 USD, el mes más flojo del segundo semestre.
+Octubre: gran recuperación, ~47 000 USD; arranque anticipado de ventas navideñas y Singles’ Day.
+Noviembre: modera a ~35 000 USD, pero Black Friday sostiene el nivel.
+Diciembre: vuelve a escalar a ~45 000 USD con la campaña navideña.
+Enero 2024 (punto suelto): ~2 000 USD, refleja corte de fin de año y muy pocos datos aún.
+Visión trimestral
+
+2023 Q1 (ene-mar): ≈119 000 USD. Buen ritmo inicial, liderado por ropa en febrero.
+2023 Q2 (abr-jun): ≈124 000 USD, el mejor trimestre debido al pico de mayo.
+2023 Q3 (jul-sep): ≈96 000 USD, contracción post-vacaciones con el mínimo en septiembre.
+2023 Q4 (oct-dic): ≈126 000 USD, máximo anual: fuerte octubre y sólida Navidad.
+Conclusiones clave
+
+Mayo es el mes récord y motor principal del excelente Q2.
+Q3 revela la estacionalidad negativa tras el verano; septiembre merece atención para reactivar ventas.
+Las campañas de octubre-diciembre impulsan el cierre de año, coronando a Q4 como el trimestre más fuerte.
+Para 2024 conviene reforzar promociones en marzo y septiembre, los meses más débiles, y mantener las estrategias exitosas de mayo y Q4.
+
+Prompt 2:
+Teniendo en cuenta el analisis de ventas trimestral y mensual, encuentra qué tendencias hay con la edad de los clientes y las categorías de consumo.
+
+Prompt 3: 
+Detecta patrones concretos y hallazgos teniendo en cuenta este analisis y las tendencias de venta mensual y trimestral.
+
+Tendencias Mensuales:
+Mayo y noviembre fueron los meses con mayor venta, superando los $4,000.
+Febrero y junio estuvieron por debajo de $2,500, siendo los más bajos.
+Hay una ligera alza en el último trimestre.
+
+Tendencias Trimestrales:
+Q4 tuvo el mejor rendimiento con casi $11,700.
+Q2 también mostró buen volumen, sobre todo en abril y mayo.
+Q1 fue el más bajo, afectado por las bajas ventas de enero y febrero.
