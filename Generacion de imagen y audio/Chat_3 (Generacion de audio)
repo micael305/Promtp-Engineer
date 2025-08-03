@@ -19,3 +19,8 @@ La formación constante transforma el temor en esperanza.
 
 ¿Sabes cómo la inteligencia artificial transformará tu industria? Habla con Platzi.
 
+# Prompt 2 (Para mejorar prompt inicial)
+Actua como un Prompt Engineer que esta haciendo un prompt de Text-to-Speach y mejora el siguiente prompt
+"""
+{texto}
+"""
